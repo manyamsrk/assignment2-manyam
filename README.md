@@ -38,3 +38,9 @@ Miami is one of the state's – and the world’s – most popular vacation spot
 | chocolate ice cream| Anyware | $4 |
 
 ****
+
+# Pithy Quotes
+
+>"The greatest religion is to be true to your own nature. Have faith in yourselves."<br/>
+>"In a conflict between the heart and the brain, follow your heart."<br/>
+>―*Swami Vivekananda*
