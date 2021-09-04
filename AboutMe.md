@@ -2,6 +2,6 @@
 
 Worked as a Associate Professional Software Engineer in DXC Technology for 1 year.
 
- ![Profile](Profilepic.jpg)
+ ![Profile](srkpic.JPG)
 
  **[Go-Back](README.md)**
