@@ -103,3 +103,11 @@ void convex_hull(vector<pt>& a) {
 
 ****
 
+# H! 
+- 📖 I am currently pursuing Master's in Applied Computer Science from Northwest Missouri State University.
+- 💻 I am currently learning "DEVEL WEB APPS AND SERV" under DR.Eloe.
+- 🏏 Cricket lover.
+
+****
+
+----> [Profile](https://github.com/manyamsrk)
