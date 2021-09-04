@@ -26,3 +26,15 @@ Miami is one of the state's – and the world’s – most popular vacation spot
 
 ****
 
+## Food/Drinks
+
+ Food/Drinks that I would like to recommend
+
+| Food/Drinks | Location | Price |
+| :---: | :---: | :---: |
+| Dum Biryani | Bawarchi | $20 |
+| Coconut Water | Anyware | $5 |
+| Kaju Barfi| Pistahouse | $2 |
+| chocolate ice cream| Anyware | $4 |
+
+****
